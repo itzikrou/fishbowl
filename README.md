@@ -1,6 +1,6 @@
 # _FacebookSDK_
 
-_Description: Java wrapper for Facebook's REST GRAPH API_
+_Description: Java wrapper for Facebook's GRAPH REST API_
 
 1. _you will need to have an active facebook app (appId,appSecret)_
 
